@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Panuruiz
 - 👀 I’m interested in Front-end Web Development.
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently working with React.js, Next.js, Storybook and Storyblok
 - 📫 You can see some examples from what i have been doing in my public repositories.
-- 💞️ I’m looking to collaborate on my first Team-Job.
-- 📫 How to reach me: webdeveloper@pablonunezruiz.com
+- 📫 How to reach me: pablo@alm.sh
 
 <!---
 Panuruiz/Panuruiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
