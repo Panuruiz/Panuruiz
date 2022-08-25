@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Panuruiz
-- 👀 I’m interested in Front-end Web Development.
+- 👀 I’m a front-end developer in https://www.alm.sh
 - 🌱 I’m currently working with React.js, Next.js, Storybook and Storyblok
-- 📫 You can see some examples from what i have been doing in my public repositories.
 - 📫 How to reach me: pablo@alm.sh
 
 <!---
